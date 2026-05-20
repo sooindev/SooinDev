@@ -23,6 +23,7 @@
 <br/>
 <br/>
 
+
 ```
                                                                     
     ███████╗ ██████╗  ██████╗ ██╗███╗   ██╗██████╗ ███████╗██╗   ██╗
@@ -33,6 +34,8 @@
     ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝  
                                                                     
 ```
+
+
 
 <br/>
 
@@ -58,9 +61,12 @@
 
 <div align="center">
 
+
 ```
  ─── ABOUT ──────────────────────────────────────── †
 ```
+
+
 
 </div>
 
@@ -70,6 +76,7 @@
 <table>
 <tr>
 <td>
+
 
 ```java
 public class SooinDev {
@@ -88,6 +95,8 @@ public class SooinDev {
 }
 ```
 
+
+
 </td>
 </tr>
 </table>
@@ -101,9 +110,12 @@ public class SooinDev {
 
 <div align="center">
 
+
 ```
  ─── ARSENAL ────────────────────────────────────── †
 ```
+
+
 
 </div>
 
@@ -165,9 +177,12 @@ public class SooinDev {
 
 <div align="center">
 
+
 ```
  ─── WORKS ──────────────────────────────────────── †
 ```
+
+
 
 </div>
 
@@ -181,26 +196,30 @@ public class SooinDev {
 
 <br/>
 
+
 ```
 ◆ IRION FAN SITE
 ```
 
-[**`yeti-125.com`**](https://yeti-125.com/)
+
+
+[**`yeti-125.com`**](https://yeti-125.com/) &nbsp; · &nbsp; [**`source →`**](https://github.com/sooindev/YETI-125)
 
 <br/>
 
-> Virtual streamer fan community platform
+> Virtual streamer fan archive platform
 
 <br/>
 
-`Spring` · `MyBatis` · `MariaDB` · `Tomcat 8.5`
+`Spring` · `MyBatis` · `MariaDB` · `Tomcat 9`
 
 <br/>
 
-버츄얼 스트리머 이리온의 팬 커뮤니티 플랫폼입니다.<br/>
-게시판 · 댓글 · 좋아요 · 팬아트 갤러리 등 커뮤니티 전반을<br/>
-Spring MVC 기반으로 직접 설계하고 구현했습니다.<br/>
-AWS EC2 + MariaDB 환경에 배포하여 실 운영 중입니다.
+버츄얼 스트리머 이리온의 팬 아카이브 플랫폼입니다.<br/>
+chzzk API를 연동해 실시간 방송 상태 · 인기 클립 ·<br/>
+다시보기를 자동 수집하고, 방송 일정 캘린더와<br/>
+관리자 일정 관리 기능을 Spring MVC로 구현했습니다.<br/>
+클라우드 서버에 HTTPS로 배포하여 실 운영 중입니다.
 
 <br/>
 <br/>
@@ -210,9 +229,12 @@ AWS EC2 + MariaDB 환경에 배포하여 실 운영 중입니다.
 
 <br/>
 
+
 ```
 ◆ CODESLICE
 ```
+
+
 
 [**`App Store`**](https://apps.apple.com/kr/app/codeslice/id6752849706) &nbsp; ★ 5.0
 
@@ -240,9 +262,12 @@ QR 코드로 즉시 변환하는 iOS 앱입니다.<br/>
 
 <br/>
 
+
 ```
 ◆ AUTOFINDER
 ```
+
+
 
 [**`source code →`**](https://github.com/SooinDev/AutoFinder)
 
@@ -269,9 +294,12 @@ React로 검색 · 가격 분석 · 리뷰 UI를 구현했습니다.
 
 <br/>
 
+
 ```
 ◆ JOBBRIDGE
 ```
+
+
 
 [**`source code →`**](https://github.com/SooinDev/jobbridge-backend)
 
@@ -300,9 +328,12 @@ React로 검색 · 가격 분석 · 리뷰 UI를 구현했습니다.
 
 <br/>
 
+
 ```
 ◆ TINY-TOMCAT
 ```
+
+
 
 [**`source code →`**](https://github.com/SooinDev/tiny-tomcat)
 
@@ -343,9 +374,12 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 <div align="center">
 
+
 ```
  ─── METRICS ────────────────────────────────────── †
 ```
+
+
 
 </div>
 
@@ -370,9 +404,12 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 <div align="center">
 
+
 ```
  ─── BOJ ────────────────────────────────────────── †
 ```
+
+
 
 </div>
 
@@ -392,9 +429,12 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 <div align="center">
 
+
 ```
  ─── WAKATIME ───────────────────────────────────── †
 ```
+
+
 
 </div>
 
@@ -423,13 +463,17 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
  > 
 **I'm an Early 🐤** 
 
+
 ```text
 🌞 Morning                880 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
 🌆 Daytime                603 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 🌃 Evening                862 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
 🌙 Night                  596 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
 ```
+
+
 📅 **I'm Most Productive on Thursday** 
+
 
 ```text
 Monday                   332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
@@ -442,7 +486,10 @@ Sunday                   240 commits         ██░░░░░░░░░�
 ```
 
 
+
+
 📊 **This Week I Spent My Time On** 
+
 
 ```text
 🕑︎ Time Zone: Asia/Seoul
@@ -470,7 +517,10 @@ sixteenbars-api          1 hr 38 mins        █░░░░░░░░░░�
 Mac                      30 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
+
+
 **I Mostly Code in Java** 
+
 
 ```text
 Java                     17 repos            ███████████░░░░░░░░░░░░░░   45.95 % 
@@ -479,6 +529,8 @@ Swift                    3 repos             ██░░░░░░░░░�
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 ```
+
+
 
 
 
@@ -500,9 +552,12 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 <div align="center">
 
+
 ```
  ─── ENVIRONMENT ────────────────────────────────── †
 ```
+
+
 
 </div>
 
@@ -512,6 +567,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 <table>
 <tr>
 <td>
+
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -541,6 +597,8 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+
+
 </td>
 </tr>
 </table>
@@ -566,9 +624,11 @@ JavaScript               3 repos             ██░░░░░░░░░�
 <br/>
 <br/>
 
+
 ```
 "building robust systems — one commit at a time."
 ```
+
 
 <br/>
 <br/>
