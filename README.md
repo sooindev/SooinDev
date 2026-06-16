@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 370 Contributions in the Year 2026
+> 🏆 371 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,21 +464,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                912 commits         ████████░░░░░░░░░░░░░░░░░   30.40 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+🌞 Morning                913 commits         ████████░░░░░░░░░░░░░░░░░   30.42 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Tuesday                  373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
 Wednesday                622 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Thursday                 756 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Friday                   461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Thursday                 756 commits         ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+Friday                   461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 Saturday                 199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Sunday                   251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Sunday                   251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
 
 
@@ -488,23 +488,22 @@ Sunday                   251 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     4 hrs 26 mins       ██████████████████████░░░   87.29 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-HTTP Request             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Java                     2 hrs 23 mins       ███████████████████████░░   91.94 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+HTTP Request             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 9 mins        ████████████████████░░░░░   81.75 % 
-Claude Code              40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Unknown Editor           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+IntelliJ IDEA            2 hrs 11 mins       █████████████████████░░░░   84.35 % 
+Unknown Editor           15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Claude Code              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🐱‍💻 Projects: 
-wave-441                 5 hrs 1 min         █████████████████████████   98.93 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+wave-441                 2 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -524,7 +523,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2026 02:43:49 UTC
+ Last Updated on 16/06/2026 02:46:36 UTC
 <!--END_SECTION:waka-->
 
 </div>
