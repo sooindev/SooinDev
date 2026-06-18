@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 372 Contributions in the Year 2026
+> 🏆 373 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,19 +464,19 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                914 commits         ████████░░░░░░░░░░░░░░░░░   30.45 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌞 Morning                915 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
 🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Wednesday                622 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Thursday                 756 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Friday                   461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Wednesday                623 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Thursday                 756 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Friday                   461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Saturday                 199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 Sunday                   251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
@@ -488,22 +488,21 @@ Sunday                   251 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     1 hr 12 mins        ████████████████████████░   95.58 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Java                     14 mins             ████████████████████████░   97.85 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr                ████████████████████░░░░░   79.31 % 
-Unknown Editor           15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Unknown Editor           15 mins             █████████████░░░░░░░░░░░░   50.98 % 
+IntelliJ IDEA            14 mins             ████████████░░░░░░░░░░░░░   49.02 % 
 
 🐱‍💻 Projects: 
-wave-441                 1 hr 15 mins        █████████████████████████   100.00 % 
+wave-441                 14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -523,7 +522,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 02:43:14 UTC
+ Last Updated on 18/06/2026 02:39:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
