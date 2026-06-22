@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 376 Contributions in the Year 2026
+> 🏆 377 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,21 +464,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                918 commits         ████████░░░░░░░░░░░░░░░░░   30.54 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+🌞 Morning                919 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                623 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Thursday                 757 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Friday                   462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                623 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Thursday                 757 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Friday                   462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Sunday                   251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Sunday                   252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 ```
 
 
@@ -488,17 +488,16 @@ Sunday                   251 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unknown Editor           15 mins             ██████████████████████░░░   88.97 % 
-IntelliJ IDEA            1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Unknown Editor           15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wave-441                 1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -518,7 +517,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 02:41:59 UTC
+ Last Updated on 22/06/2026 02:45:01 UTC
 <!--END_SECTION:waka-->
 
 </div>
