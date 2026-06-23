@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 377 Contributions in the Year 2026
+> 🏆 378 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,17 +464,17 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                919 commits         ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌞 Morning                920 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
 🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                623 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Tuesday                  374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Wednesday                623 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
 Thursday                 757 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
 Friday                   462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
@@ -517,7 +517,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2026 02:45:01 UTC
+ Last Updated on 23/06/2026 02:11:53 UTC
 <!--END_SECTION:waka-->
 
 </div>
