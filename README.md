@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 379 Contributions in the Year 2026
+> 🏆 380 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,20 +464,20 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                921 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+🌞 Morning                922 commits         ████████░░░░░░░░░░░░░░░░░   30.63 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Tuesday                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Wednesday                623 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Thursday                 757 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Wednesday                624 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Thursday                 757 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
 Friday                   462 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 Sunday                   252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
@@ -517,7 +517,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 02:13:32 UTC
+ Last Updated on 25/06/2026 02:13:08 UTC
 <!--END_SECTION:waka-->
 
 </div>
