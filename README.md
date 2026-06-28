@@ -443,7 +443,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 382 Contributions in the Year 2026
+> 🏆 383 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,21 +464,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                924 commits         ████████░░░░░░░░░░░░░░░░░   30.68 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌞 Morning                925 commits         ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 Tuesday                  375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                624 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Thursday                 758 commits         ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Wednesday                624 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Thursday                 758 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
 Friday                   463 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Sunday                   252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Saturday                 201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Sunday                   252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 ```
 
 
@@ -488,16 +488,24 @@ Sunday                   252 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     10 mins             ████████████░░░░░░░░░░░░░   47.80 % 
+C++                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Java                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+CMake                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Unknown Editor           15 mins             █████████████████████████   100.00 % 
+Claude Code              17 mins             ████████████░░░░░░░░░░░░░   47.77 % 
+Unknown Editor           15 mins             ██████████░░░░░░░░░░░░░░░   41.91 % 
+IntelliJ IDEA            3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+game                     17 mins             █████████████████████░░░░   82.22 % 
+Tomcat                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+wave-441                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -517,7 +525,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/06/2026 02:10:03 UTC
+ Last Updated on 28/06/2026 02:31:30 UTC
 <!--END_SECTION:waka-->
 
 </div>
