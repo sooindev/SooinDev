@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 391 Contributions in the Year 2026
+> 🏆 392 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,20 +464,20 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                933 commits         ████████░░░░░░░░░░░░░░░░░   30.88 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+🌞 Morning                934 commits         ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Monday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Tuesday                  376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 Thursday                 759 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Friday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Saturday                 202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Friday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Saturday                 202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 Sunday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
@@ -517,7 +517,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 02:08:41 UTC
+ Last Updated on 07/07/2026 02:04:12 UTC
 <!--END_SECTION:waka-->
 
 </div>
