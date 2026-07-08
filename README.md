@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 216.9 kB Used in GitHub's Storage 
  > 
-> 🏆 392 Contributions in the Year 2026
+> 🏆 393 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,21 +464,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                934 commits         ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌞 Morning                935 commits         ████████░░░░░░░░░░░░░░░░░   30.93 % 
 🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Tuesday                  376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Thursday                 759 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+Monday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Tuesday                  377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Wednesday                625 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Thursday                 759 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
 Friday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Saturday                 202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Sunday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Sunday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 
@@ -517,7 +517,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 02:04:12 UTC
+ Last Updated on 08/07/2026 01:44:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
