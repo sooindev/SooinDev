@@ -447,36 +447,36 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.9 kB Used in GitHub's Storage 
+> 📦 217.1 kB Used in GitHub's Storage 
  > 
-> 🏆 398 Contributions in the Year 2026
+> 🏆 399 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                940 commits         ████████░░░░░░░░░░░░░░░░░   31.04 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-🌃 Evening                877 commits         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌞 Morning                941 commits         ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+🌃 Evening                878 commits         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Wednesday                626 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Thursday                 760 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-Friday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Tuesday                  377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                626 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Thursday                 760 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Friday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Saturday                 203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 Sunday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
@@ -510,11 +510,11 @@ Mac                      31 mins             ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
-Dart                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Swift                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Java                     18 repos            ████████████░░░░░░░░░░░░░   46.15 % 
+Dart                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Swift                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
@@ -524,7 +524,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 01:48:21 UTC
+ Last Updated on 14/07/2026 01:25:25 UTC
 <!--END_SECTION:waka-->
 
 </div>
