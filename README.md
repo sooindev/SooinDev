@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.1 kB Used in GitHub's Storage 
  > 
-> 🏆 401 Contributions in the Year 2026
+> 🏆 402 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,20 +464,20 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                943 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-🌃 Evening                878 commits         ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+🌞 Morning                944 commits         ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+🌃 Evening                878 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
 🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Tuesday                  378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Wednesday                627 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Thursday                 760 commits         ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Friday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Saturday                 203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Tuesday                  378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Wednesday                627 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Thursday                 761 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Friday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 Sunday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
@@ -524,7 +524,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 01:31:54 UTC
+ Last Updated on 17/07/2026 01:45:49 UTC
 <!--END_SECTION:waka-->
 
 </div>
