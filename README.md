@@ -453,7 +453,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.1 kB Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2026
+> 🏆 403 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,10 +464,10 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                944 commits         ████████░░░░░░░░░░░░░░░░░   31.12 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-🌃 Evening                878 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+🌞 Morning                945 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+🌃 Evening                878 commits         ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+🌙 Night                  602 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -475,10 +475,10 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 Tuesday                  378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 Wednesday                627 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Thursday                 761 commits         ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Friday                   465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Thursday                 761 commits         ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+Friday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 Saturday                 203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Sunday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Sunday                   255 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 
@@ -488,20 +488,20 @@ Sunday                   255 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     27 mins             ██████████████████████░░░   88.84 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Java                     27 mins             ██████████████████████░░░   88.80 % 
+JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            31 mins             █████████████████░░░░░░░░   67.49 % 
-Unknown Editor           15 mins             ████████░░░░░░░░░░░░░░░░░   32.51 % 
+IntelliJ IDEA            31 mins             █████████████████░░░░░░░░   67.41 % 
+Unknown Editor           15 mins             ████████░░░░░░░░░░░░░░░░░   32.59 % 
 
 🐱‍💻 Projects: 
-YETI-125                 15 mins             ████████████░░░░░░░░░░░░░   48.43 % 
-AutoFinder-Spring-Boot   9 mins              ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Tomcat                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+YETI-125                 15 mins             ████████████░░░░░░░░░░░░░   48.60 % 
+AutoFinder-Spring-Boot   9 mins              ████████░░░░░░░░░░░░░░░░░   30.04 % 
+Tomcat                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
 
 💻 Operating System: 
 Mac                      31 mins             █████████████████████████   100.00 % 
@@ -524,7 +524,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 01:45:49 UTC
+ Last Updated on 18/07/2026 01:26:40 UTC
 <!--END_SECTION:waka-->
 
 </div>
