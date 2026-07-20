@@ -443,17 +443,17 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 217.1 kB Used in GitHub's Storage 
+> 📦 217.2 kB Used in GitHub's Storage 
  > 
-> 🏆 404 Contributions in the Year 2026
+> 🏆 405 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -464,21 +464,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                950 commits         ████████░░░░░░░░░░░░░░░░░   31.23 % 
-🌆 Daytime                609 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-🌃 Evening                880 commits         ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-🌙 Night                  603 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+🌞 Morning                951 commits         ████████░░░░░░░░░░░░░░░░░   31.21 % 
+🌆 Daytime                610 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Tuesday                  380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Wednesday                627 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Thursday                 761 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Friday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Saturday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Sunday                   260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Monday                   346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Tuesday                  380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Wednesday                627 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Thursday                 761 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Friday                   466 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Saturday                 204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Sunday                   263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 
 
@@ -488,16 +488,22 @@ Sunday                   260 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   38.18 % 
+TypeScript               46 mins             ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+YAML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 40 mins        ███████████████░░░░░░░░░░   61.21 % 
+Unknown Editor           1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   38.68 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+car                      2 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -517,7 +523,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 01:43:21 UTC
+ Last Updated on 20/07/2026 03:18:11 UTC
 <!--END_SECTION:waka-->
 
 </div>
