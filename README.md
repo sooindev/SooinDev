@@ -455,7 +455,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.3 kB Used in GitHub's Storage 
  > 
-> 🏆 418 Contributions in the Year 2026
+> 🏆 419 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -466,9 +466,9 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                963 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌞 Morning                964 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
 🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
 🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -476,11 +476,11 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 ```text
 Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 Tuesday                  382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Wednesday                629 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Thursday                 763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Friday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Wednesday                629 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Thursday                 763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Friday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Saturday                 207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Sunday                   264 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Sunday                   265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
@@ -490,42 +490,42 @@ Sunday                   264 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     52 mins             ██████████████████░░░░░░░   73.78 % 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Java                     44 mins             ███████████████████░░░░░░   75.09 % 
+HTML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-Claude Code              53 mins             ███████████████████░░░░░░   74.71 % 
-IntelliJ IDEA            18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Claude Code              43 mins             ██████████████████░░░░░░░   72.13 % 
+IntelliJ IDEA            16 mins             ███████░░░░░░░░░░░░░░░░░░   27.87 % 
 
 🐱‍💻 Projects: 
-car                      1 hr 11 mins        █████████████████████████   100.00 % 
+car                      59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (82.28%)
+⏱ AI Coding Time: 48 mins (80.35%)
 
-✍️ 2,185 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,984 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 33,365,413 Input Tokens, 198,770 Output Tokens
+🔤 27,574,663 Input Tokens, 179,186 Output Tokens
 
-💵 $171.80 Estimated AI Cost This Week
+💵 $142.35 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Opus                     2,204 lines         █████████████████████████   100.00 % 
+Opus                     2,003 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,156 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 1,841 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -546,7 +546,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 01:48:10 UTC
+ Last Updated on 03/08/2026 01:50:49 UTC
 <!--END_SECTION:waka-->
 
 </div>
