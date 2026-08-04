@@ -455,7 +455,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.3 kB Used in GitHub's Storage 
  > 
-> 🏆 419 Contributions in the Year 2026
+> 🏆 420 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -466,18 +466,18 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                964 commits         ████████░░░░░░░░░░░░░░░░░   31.48 % 
-🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+🌞 Morning                965 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Tuesday                  382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Tuesday                  382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 Wednesday                629 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Thursday                 763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Thursday                 763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
 Friday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Saturday                 207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 Sunday                   265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
@@ -490,43 +490,24 @@ Sunday                   265 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     44 mins             ███████████████████░░░░░░   75.09 % 
-HTML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Java                     10 mins             ████████████████████████░   97.53 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Claude Code              43 mins             ██████████████████░░░░░░░   72.13 % 
-IntelliJ IDEA            16 mins             ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+IntelliJ IDEA            10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-car                      59 mins             █████████████████████████   100.00 % 
+car                      10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (80.35%)
-
-✍️ 1,984 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 27,574,663 Input Tokens, 179,186 Output Tokens
-
-💵 $142.35 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-Opus                     2,003 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,841 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -546,7 +527,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 01:50:49 UTC
+ Last Updated on 04/08/2026 01:26:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
