@@ -455,7 +455,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.3 kB Used in GitHub's Storage 
  > 
-> 🏆 420 Contributions in the Year 2026
+> 🏆 421 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -466,19 +466,19 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                965 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌞 Morning                966 commits         ████████░░░░░░░░░░░░░░░░░   31.53 % 
+🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.75 % 
 🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Wednesday                629 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Thursday                 763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Friday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Tuesday                  383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                629 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Thursday                 763 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+Friday                   468 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 Saturday                 207 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 Sunday                   265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
@@ -527,7 +527,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 01:26:18 UTC
+ Last Updated on 05/08/2026 01:31:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
