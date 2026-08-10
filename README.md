@@ -455,7 +455,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.3 kB Used in GitHub's Storage 
  > 
-> 🏆 425 Contributions in the Year 2026
+> 🏆 426 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -466,21 +466,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                970 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.72 % 
-🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌞 Morning                971 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
+🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 Tuesday                  383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 Wednesday                630 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Thursday                 764 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Friday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 764 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Friday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Sunday                   265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Sunday                   266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
 
@@ -490,15 +490,15 @@ Sunday                   265 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     51 mins             ██████████████░░░░░░░░░░░   54.50 % 
-TypeScript               24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Java                     51 mins             ██████████████░░░░░░░░░░░   54.37 % 
+TypeScript               24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 11 mins        ███████████████████░░░░░░   75.06 % 
-Claude Code              23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+IntelliJ IDEA            1 hr 11 mins        ███████████████████░░░░░░   75.13 % 
+Claude Code              23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
 
 🐱‍💻 Projects: 
 car                      1 hr 35 mins        █████████████████████████   100.00 % 
@@ -510,7 +510,7 @@ Mac                      1 hr 35 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (36.93%)
+⏱ AI Coding Time: 35 mins (36.83%)
 
 ✍️ 52 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -546,7 +546,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 00:54:29 UTC
+ Last Updated on 10/08/2026 00:56:58 UTC
 <!--END_SECTION:waka-->
 
 </div>
