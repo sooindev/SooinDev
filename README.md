@@ -455,7 +455,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.3 kB Used in GitHub's Storage 
  > 
-> 🏆 426 Contributions in the Year 2026
+> 🏆 427 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -466,21 +466,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                971 commits         ████████░░░░░░░░░░░░░░░░░   31.64 % 
-🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+🌞 Morning                972 commits         ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
 🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 Tuesday                  383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Wednesday                630 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Wednesday                630 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 Thursday                 764 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
 Friday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Sunday                   266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Sunday                   266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 ```
 
 
@@ -546,7 +546,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 00:56:58 UTC
+ Last Updated on 11/08/2026 00:56:53 UTC
 <!--END_SECTION:waka-->
 
 </div>
