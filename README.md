@@ -455,7 +455,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 > 📦 217.3 kB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2026
+> 🏆 431 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -466,21 +466,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                975 commits         ████████░░░░░░░░░░░░░░░░░   31.73 % 
-🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+🌞 Morning                976 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 Wednesday                631 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
 Thursday                 765 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Friday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Friday                   470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Sunday                   266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Sunday                   266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 
@@ -490,42 +490,42 @@ Sunday                   266 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     51 mins             ██████████████░░░░░░░░░░░   54.37 % 
-TypeScript               24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Java                     36 mins             ███████████░░░░░░░░░░░░░░   45.82 % 
+TypeScript               24 mins             ████████░░░░░░░░░░░░░░░░░   30.10 % 
+Markdown                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 11 mins        ███████████████████░░░░░░   75.13 % 
-Claude Code              23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+IntelliJ IDEA            59 mins             ██████████████████░░░░░░░   73.39 % 
+Claude Code              21 mins             ███████░░░░░░░░░░░░░░░░░░   26.61 % 
 
 🐱‍💻 Projects: 
-car                      1 hr 35 mins        █████████████████████████   100.00 % 
+car                      1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (36.83%)
+⏱ AI Coding Time: 32 mins (40.78%)
 
 ✍️ 52 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,498,493 Input Tokens, 37,796 Output Tokens
+🔤 2,090,780 Input Tokens, 34,173 Output Tokens
 
-💵 $24.24 Estimated AI Cost This Week
+💵 $21.89 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
 Opus                     57 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 28 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 32 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -546,7 +546,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 01:04:19 UTC
+ Last Updated on 15/08/2026 00:38:42 UTC
 <!--END_SECTION:waka-->
 
 </div>
