@@ -449,13 +449,13 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.94%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 217.3 kB Used in GitHub's Storage 
  > 
-> 🏆 431 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -466,21 +466,21 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을<br/>
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                976 commits         ████████░░░░░░░░░░░░░░░░░   31.75 % 
-🌆 Daytime                612 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-🌃 Evening                881 commits         ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-🌙 Night                  605 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+🌞 Morning                198 commits         █████████████████████████   98.02 % 
+🌆 Daytime                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌃 Evening                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Tuesday                  384 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Wednesday                631 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Thursday                 765 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-Friday                   470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Sunday                   266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Wednesday                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Thursday                 190 commits         ████████████████████████░   94.06 % 
+Friday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
@@ -490,43 +490,25 @@ Sunday                   266 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     36 mins             ███████████░░░░░░░░░░░░░░   45.82 % 
-TypeScript               24 mins             ████████░░░░░░░░░░░░░░░░░   30.10 % 
-Markdown                 19 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     0 secs              ████████████████████░░░░░   78.97 % 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            59 mins             ██████████████████░░░░░░░   73.39 % 
-Claude Code              21 mins             ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+IntelliJ IDEA            1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-car                      1 hr 20 mins        █████████████████████████   100.00 % 
+car                      1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (40.78%)
-
-✍️ 52 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,090,780 Input Tokens, 34,173 Output Tokens
-
-💵 $21.89 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-Opus                     57 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -546,7 +528,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 00:38:42 UTC
+ Last Updated on 16/08/2026 00:39:48 UTC
 <!--END_SECTION:waka-->
 
 </div>
