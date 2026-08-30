@@ -381,7 +381,7 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을 외부 
 
 **🐱 My GitHub Data** 
 
-> 📦 218.5 kB Used in GitHub's Storage 
+> 📦 218.4 kB Used in GitHub's Storage 
  > 
 > 🏆 116 Contributions in the Year 2026
  > 
@@ -453,7 +453,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 04:44:30 UTC
+ Last Updated on 30/08/2026 02:20:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
