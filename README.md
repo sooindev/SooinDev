@@ -375,13 +375,13 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을 외부 
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2047%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180.46%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 218.5 kB Used in GitHub's Storage 
+> 📦 218.6 kB Used in GitHub's Storage 
  > 
 > 🏆 118 Contributions in the Year 2026
  > 
@@ -453,7 +453,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 02:34:06 UTC
+ Last Updated on 02/09/2026 01:55:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
