@@ -371,9 +371,9 @@ TCP 소켓 통신 · HTTP 파싱 · 서블릿 구조 · 스레드 풀을 외부 
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
@@ -418,22 +418,42 @@ Sunday                   89 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     6 mins              ██████████░░░░░░░░░░░░░░░   39.69 % 
+Java                     5 mins              █████████░░░░░░░░░░░░░░░░   36.37 % 
+XML                      3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              9 mins              ████████████████░░░░░░░░░   63.63 % 
+IntelliJ IDEA            5 mins              █████████░░░░░░░░░░░░░░░░   36.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+YETI-125                 15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 11 mins (71.84%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 23,097 Input Tokens, 5,418 Output Tokens
+
+💵 $0.26 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 51 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -453,7 +473,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 02:01:28 UTC
+ Last Updated on 04/09/2026 01:56:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
