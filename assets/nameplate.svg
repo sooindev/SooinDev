@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="SOOIN — Backend Engineer">
+  <title>SOOIN · Backend Engineer</title>
+  <style>
+    /* Every element's markup is its finished state, and every keyframe at 0%
+       matches it. Renderers that freeze an SVG-in-img timeline (GitHub's
+       mobile view, some feed readers) still show the plate exactly as drawn;
+       where animation runs, only ambient light moves. */
+    .band  { animation: sweep 7s ease-in-out infinite; }
+    .glint { animation: glide 11s linear infinite; }
+    .pip   { animation: pulse 5s ease-in-out infinite; }
+
+    @keyframes sweep { 0%,8% { transform: translateX(-420px); }
+                       48%,100% { transform: translateX(1360px); } }
+    @keyframes glide { 0% { transform: translateX(-340px); }
+                       100% { transform: translateX(1240px); } }
+    @keyframes pulse { 0%,100% { opacity: .9; } 50% { opacity: .45; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .band,.glint,.pip { animation: none; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0b0d10"/>
+      <stop offset="55%"  stop-color="#111721"/>
+      <stop offset="100%" stop-color="#1b2a44"/>
+    </linearGradient>
+
+    <radialGradient id="vignette" cx="50%" cy="45%" r="72%">
+      <stop offset="55%"  stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#eef3fa"/>
+      <stop offset="55%"  stop-color="#c3d1e6"/>
+      <stop offset="100%" stop-color="#8fa9cd"/>
+    </linearGradient>
+
+    <linearGradient id="hairline" gradientUnits="userSpaceOnUse" x1="240" y1="0" x2="960" y2="0">
+      <stop offset="0%"   stop-color="#7c9cc9" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#9fb8d8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7c9cc9" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="glintFill" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="340" y2="0">
+      <stop offset="0%"   stop-color="#7c9cc9" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#7c9cc9" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#7c9cc9" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="bandFill" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <mask id="sweepMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="300">
+      <rect class="band" x="0" y="90" width="260" height="130" fill="url(#bandFill)"/>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#plate)"/>
+  <rect width="1200" height="300" fill="url(#vignette)"/>
+  <rect class="glint" x="0" y="0" width="340" height="300" fill="url(#glintFill)"/>
+
+  <rect x="18" y="18" width="1164" height="264" fill="none"
+        stroke="#31507f" stroke-width="1.6" stroke-dasharray="2856" stroke-dashoffset="0"/>
+  <rect x="30" y="30" width="1140" height="240" fill="none"
+        stroke="#7c9cc9" stroke-width="0.7" opacity="0.32"/>
+
+  <g stroke="#7c9cc9" stroke-width="1.1" fill="none" opacity="0.75">
+    <path d="M30 66 L30 30 L66 30"/>
+    <path d="M1170 66 L1170 30 L1134 30"/>
+    <path d="M30 234 L30 270 L66 270"/>
+    <path d="M1170 234 L1170 270 L1134 270"/>
+  </g>
+  <g class="pip" fill="#7c9cc9" opacity="0.9">
+    <path d="M46 46 l6 6 -6 6 -6 -6z"/>
+    <path d="M1154 46 l6 6 -6 6 -6 -6z"/>
+    <path d="M46 254 l6 6 -6 6 -6 -6z"/>
+    <path d="M1154 254 l6 6 -6 6 -6 -6z"/>
+  </g>
+
+  <text x="600" y="80" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', monospace"
+        font-size="12" letter-spacing="7" fill="#9aa4b2">◆ &#160; S O O I N D E V &#160; ◆</text>
+
+  <g>
+    <text x="600" y="180" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="82" font-weight="700" letter-spacing="22" fill="url(#ink)">SOOIN</text>
+    <text x="600" y="180" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="82" font-weight="700" letter-spacing="22" fill="#ffffff"
+          mask="url(#sweepMask)">SOOIN</text>
+  </g>
+
+  <g>
+    <rect x="240" y="207" width="720" height="1" fill="url(#hairline)"/>
+    <path d="M600 200 l7 7 -7 7 -7 -7z" fill="#7c9cc9"/>
+  </g>
+
+  <text x="600" y="248" text-anchor="middle"
+        font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', monospace"
+        font-size="13" letter-spacing="9" fill="#a8b6cc">B A C K E N D &#160; E N G I N E E R</text>
+</svg>

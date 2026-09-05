@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 28" width="1200" height="28" role="img" aria-label="divider">
+  <style>
+    .d { animation: pulse 4s ease-in-out infinite; }
+    .p { animation: pulse 4s ease-in-out .4s infinite; }
+    @keyframes pulse { 0%,100% { opacity: .95; } 50% { opacity: .3; } }
+    @media (prefers-reduced-motion: reduce) { .d,.p { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="l" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="560" y2="0">
+      <stop offset="0%" stop-color="#7c9cc9" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#7c9cc9" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="r" gradientUnits="userSpaceOnUse" x1="640" y1="0" x2="1140" y2="0">
+      <stop offset="0%" stop-color="#7c9cc9" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7c9cc9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="60"  y="13.5" width="500" height="1" fill="url(#l)"/>
+  <rect x="640" y="13.5" width="500" height="1" fill="url(#r)"/>
+  <g fill="#7c9cc9">
+    <path class="d" d="M600 6 l8 8 -8 8 -8 -8z"/>
+    <circle class="p" cx="576" cy="14" r="2.2" opacity="0.6"/>
+    <circle class="p" cx="624" cy="14" r="2.2" opacity="0.6"/>
+  </g>
+</svg>
